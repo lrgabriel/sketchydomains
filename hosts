@@ -1,0 +1,8 @@
+# My list of sketchyass domains I don't want working
+# 10/1/21
+
+# Stuff to keep the Coros watch from spying
+
+127.0.0.1 graph.facebook.com
+127.0.0.1 appconfig.coros.com
+127.0.0.1 android.bugly.qq.com
