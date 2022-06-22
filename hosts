@@ -1,8 +1,12 @@
 # My list of sketchyass domains I don't want working
-# 10/1/21
+# 10/1/21 v1 - Coros
+# 6/22/22 v2 - windows, changed to 0s
 
 # Stuff to keep the Coros watch from spying
 
-127.0.0.1 graph.facebook.com
-127.0.0.1 appconfig.coros.com
-127.0.0.1 android.bugly.qq.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 appconfig.coros.com
+0.0.0.0 android.bugly.qq.com
+
+# Scary windows stuff
+0.0.0.0 activity.windows.com
