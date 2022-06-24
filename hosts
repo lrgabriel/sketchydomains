@@ -10,3 +10,10 @@
 
 # Scary windows stuff
 0.0.0.0 activity.windows.com
+
+#Roku
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 pv.sohu.com
+0.0.0.0 tyler.logs.roku.com
+0.0.0.0 austin.logs.roku.com
