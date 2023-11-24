@@ -3,6 +3,7 @@
 # 6/22/22 v2 - windows, changed to 0s
 # 9/9/22 v3 - facebook
 # 4/26/23 v4 - Office Telemetry
+# 11/24/23 v4 - No change, just version bump to test versioning
 
 #Stuff to keep Office telemetry from happening
 0.0.0.0 self.events.data.microsoft.com
