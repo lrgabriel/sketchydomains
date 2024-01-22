@@ -3,14 +3,22 @@
 # 6/22/22 v2 - windows, changed to 0s
 # 9/9/22 v3 - facebook
 # 4/26/23 v4 - Office Telemetry
+# 1/22/24 v5 - eclipsium/gigabyte list, midea telemetry blocking
 
-#Stuff to keep Office telemetry from happening
+# Eclipsium/Gigabye https://eclypsium.com/blog/supply-chain-risk-from-gigabyte-app-center-backdoor/
+0.0.0.0 mb.download.gigabyte.com
+0.0.0.0 mb.download.gigabyte.com
+0.0.0.0 software-nas
+
+# Block Midea Cube from phoning home
+0.0.0.0 module.appsmb.com
+
+# Stuff to keep Office telemetry from happening
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 hubblecontent.osi.office.net
 
 # Stuff to keep the Coros watch from spying
-
 0.0.0.0 graph.facebook.com
 0.0.0.0 appconfig.coros.com
 0.0.0.0 android.bugly.qq.com
